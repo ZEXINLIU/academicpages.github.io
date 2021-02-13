@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics Beihang University, 2016
+* Ph.D in Mathematics, University of Utah, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - current: Research Assistant
+  * SCIInstitute, University of Utah
+  * Projects
+    * On the computation of recurrence coefficients for orthogonal polynomials
+    * Using UncertainSCI to Quantify Uncertainty in Cardiac Simulations
+    * Fractional Powers of Laplace Problems by Eigen Decomposition and RBF-FD method
+  * Supervisor: Professor Akil Narayan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * English: Professional working proficiency
+  * Chinese: Native
+* Coding
+  * Python
+  * Matlab
+  * C++
+  * Tensorflow
+* Writing
+  * Latex
+  * Markdown
+* Collaborating
+  * Git
 
 Publications
 ======
@@ -56,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 2 different slack teams
