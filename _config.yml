@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Predoctoral"
 title_separator          : "-"
 name                     : &name "Zexin Liu"
-description              : &description "Research assistant at SCIInstitute, University of Utah"
+description              : &description "Research assistant of Scientific Computing and Imaging(SCI) Institute at University of Utah"
 url                      : "https://zexinliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zexinliu.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zexin Liu"
   avatar           : "portrait.png"
-  bio              : "Research assistant at SCIInstitute, University of Utah, interested in Orthogonal Polynomials, Uncertainty Quantification (UQ) and Fractional PDEs"
-  location         : "SLC, UT"
+  bio              : "Research assistant of Scientific Computing and Imaging(SCI) Institute at University of Utah"
+  location         : "Salt Lake City, Utah"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ViwJ6FoAAAAJ&hl=en&oi=ao"
   email            : "zexin@math.utah.edu"
   researchgate     : "https://www.researchgate.net/profile/Zexin_Liu5"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Zexin Liu"
   foursquare       :
   github           : "zexinliu"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "Zexin Liu"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
