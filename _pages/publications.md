@@ -1,8 +1,10 @@
 ---
 layout: archive
 permalink: /publications/
+title: 
 author_profile: true
 ---
+
 # In preparation
 
 1. On the computation of recurrence coefficients for multivariate orthogonal polynomials (with A.Narayan)
@@ -12,7 +14,7 @@ author_profile: true
 ---
 
 # Submitted
-1. [On the computation of recurrence coefficients for univariate orthogonal polynomials](/publications/uni_ttr), Z.Liu, A.Narayan [arXiv:2101.11963, 2021](https://arxiv.org/abs/2101.11963)
+1. On the computation of recurrence coefficients for univariate orthogonal polynomials, Z.Liu, A.Narayan [arXiv:2101.11963, 2021](https://arxiv.org/abs/2101.11963)
 
 ---
 
