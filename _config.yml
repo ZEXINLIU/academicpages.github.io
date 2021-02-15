@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Predoctoral"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zexin Liu"
 description              : &description "Research assistant of Scientific Computing and Imaging(SCI) Institute at University of Utah"
