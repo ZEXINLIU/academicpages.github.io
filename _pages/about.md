@@ -17,6 +17,10 @@ collaborating with Computational Electrocardiology Group (CEG) leading by [Dr. R
 UncertainSCI is a Python-based toolkit that harnesses modern techniques to estimate model and parametric uncertainty,
 with a particular emphasis on needs for biomedical simulations and applications.
 This toolkit enables non-intrusive integration of these techniques with well-established biomedical simulation software.
-
 My contribution is involving but not limited to: PCE setup for models, generation of anisotropic distributions, basis functions of orthgonal polynomials.
+
+Some examples regarding cardiac simulations using UncertainSCI are given here: A sensitivity analysis on variability in heart position on torso potentials; Effect of the heart position on torso surface potentials.
+![Position-Sensitivity](http://zexinliu.github.io/images/Position-Sensitivity.png)
+![Conductivity-Sensitivity](http://zexinliu.github.io/images/Conductivity-Sensitivity.png)
+
 Some quick examples can be found [here](https://github.com/SCIInstitute/UncertainSCI/tree/master/demos).

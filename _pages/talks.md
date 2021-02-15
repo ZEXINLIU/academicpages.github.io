@@ -1,5 +1,6 @@
 ---
-<!--layout: archive-->
+layout: archive
+title: Academic involments
 permalink: /talks/
 author_profile: true
 ---
