@@ -19,11 +19,12 @@ with a particular emphasis on needs for biomedical simulations and applications.
 This toolkit enables non-intrusive integration of these techniques with well-established biomedical simulation software.
 My contribution is involving but not limited to: PCE setup for models, generation of anisotropic distributions, basis functions of orthgonal polynomials.
 
-Some examples regarding cardiac simulations using UncertainSCI are given here: A sensitivity analysis on variability in heart position on torso potentials(top);
-Effect of the heart position on torso surface potentials(bottom).
+Some examples regarding cardiac simulations using UncertainSCI are given here: A sensitivity analysis on variability in heart position on torso potentials(left);
+Effect of the heart position on torso surface potentials(right).
 
-<img src="http://zexinliu.github.io/images/Position-Sensitivity.png" alt="Position-Sensitivity" style="zoom:30%;" />
-
-<img src="http://zexinliu.github.io/images/Conductivity-Sensitivity.png" alt="Conductivity-Sensitivity" style="zoom:30%;" />
+<table><tr>
+<td><img src="http://zexinliu.github.io/images/Position-Sensitivity.png" alt="Position-Sensitivity" border=0></td>
+<td><img src="http://zexinliu.github.io/images/Conductivity-Sensitivity.png" alt="Conductivity-Sensitivity" border=0></td>
+</tr></table>
 
 Some quick examples can be found [here](https://github.com/SCIInstitute/UncertainSCI/tree/master/demos).
