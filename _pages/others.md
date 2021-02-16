@@ -4,8 +4,6 @@ title: Others
 permalink: /others/
 author_profile: true
 ---
-//html
-
 ## Big sneaker fan
 
 <body>
@@ -47,11 +45,3 @@ author_profile: true
 <!--<td><img src="http://zexinliu.github.io/images/nba.png" alt="nba" border=0></td>-->
 <!--<td><img src="http://zexinliu.github.io/images/ppisland.png" alt="ppisland" border=0></td>-->
 <!--</tr></table>-->
-
-//css
-img{
-    width: 80px;
-    height: 80px;
-    object-fit: cover;
-}
-
